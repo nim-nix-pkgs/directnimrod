@@ -7,30 +7,8 @@
   "license": "MS-PL",
   "web": "https://bitbucket.org/barcharcraz/directnimrod",
   "refs": [
-    "refs/heads/master",
+    "fatal: unable to access 'https://bitbucket.org/barcharcraz/directnimrod/': Could not resolve host: bitbucket.org",
     ""
   ],
-  "heads": [
-    {
-      "name": "directnimrod",
-      "version": "0.2.0",
-      "author": "Charlie Barto",
-      "desc": "Nimrod wrapper for the\n               direct3D 11, 11.1, and 12 libraries\n               as well as for direct2D and DXGI",
-      "license": "MS-PL",
-      "skipDirs": [
-        "wrap"
-      ],
-      "skipFiles": [],
-      "skipExt": [],
-      "installDirs": [],
-      "installFiles": [],
-      "installExt": [],
-      "requires": [],
-      "bin": [],
-      "binDir": "",
-      "srcDir": "src",
-      "backend": "c",
-      "ref": "refs/heads/master"
-    }
-  ]
+  "heads": []
 }
